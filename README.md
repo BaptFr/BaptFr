@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BaptFr
-- 🌱 I’m currently learning HTML + CSS
+ 👋 Hi, I’m @BaptFr
+
 
 
 <!---
