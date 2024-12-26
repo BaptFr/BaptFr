@@ -6,6 +6,8 @@
 <h2 align="center">I am working with these languages and tools:</h2>
 <p align="center">
   <br href="https://skillicons.dev">
+    <p>React.js JavascriptVite Sass CSS HTML</p>
+    <img src="https://skillicons.dev/icons?i=react,js,vite,sass,css,html" /> </br></br>
     <img src="https://skillicons.dev/icons?i=react,js,vite,sass,css,html" /> </br></br>
     <img src="https://skillicons.dev/icons?i=npm,nodejs,mongodb,postman" /></br></br>
     <img src="https://skillicons.dev/icons?i=git,github,vercel" /></br></br>
