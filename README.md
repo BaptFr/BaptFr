@@ -4,7 +4,7 @@
 </br>
 </br>
 <h2 align="center">I am working with these languages and tools:</h2>
-<p align="center">
+<div align="center">
   <br href="https://skillicons.dev">
     <p> React.js | JavaScript | Vite | Sass | CSS3 | HTML5</p>
     <img src="https://skillicons.dev/icons?i=react,js,vite,sass,css,html" /> </br></br>
@@ -15,5 +15,5 @@
     <p> Figma | Notion</p>
     <img src="https://skillicons.dev/icons?i=figma,notion" /></br></br>
   </a>
-</p>  
+</div>  
 
