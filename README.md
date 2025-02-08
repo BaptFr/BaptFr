@@ -17,15 +17,17 @@
   </a>
 </div>  
 
-<h2> Formation continue  </h2>
- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;'> COURSERA </img>
- <img src='https://res.cloudinary.com/superbuddy-tech/image/upload/dyma)](https://res.cloudinary.com/superbuddy-tech/image/upload/dyma' style='width: 75px;'> <p> DYMA </p>
+<div align="center">
+  <h2> Formation continue  </h2>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;'> COURSERA </img>
+   <img src='https://res.cloudinary.com/superbuddy-tech/image/upload/dyma' style='width: 75px;'> <p> DYMA </p>
+</div>
 
-
-<h2> Plateformes d'entrainement </h2>
-  <h3> Codewars </h3>
-   <img src='https://www.codewars.com/users/BaptFr/badges/large' />
-  <h3> CodinGames </h3>
- <href src='https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275' > CodinGames profil </href>
-  
+<div align="center">
+  <h2> Plateformes d'entrainement </h2>
+    <h3> Codewars </h3>
+     <img src='https://www.codewars.com/users/BaptFr/badges/large' />
+    <h3> CodinGames </h3>
+   <href src='https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275' > CodinGames profil </href>
+</div>
 
