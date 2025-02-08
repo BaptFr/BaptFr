@@ -28,6 +28,6 @@
     <h3> Codewars </h3>
      <img src='https://www.codewars.com/users/BaptFr/badges/large' />
     <h3> CodinGames </h3>
-   <href src='https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275' > CodinGames profil </href>
+   <a href='https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275' > CodinGames profil </a>
 </div>
 
