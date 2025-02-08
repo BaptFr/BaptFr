@@ -18,7 +18,7 @@
 </div>  
 
 <h2> Formation continue  </h2>
- <img src='https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png' width: 25x> Coursera </img>
+ <img src='https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png' width: 25px> Coursera </img>
   <p> Dyma </p>
 
 
