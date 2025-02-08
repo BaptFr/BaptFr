@@ -17,3 +17,14 @@
   </a>
 </div>  
 
+<h2> Formation continue  </h2>
+  <p> Coursera </p>
+  <p> Dyma </p>
+
+
+<h2> Plateformes d'entrainement </h2>
+  <h3> CodinGames </h3>
+  https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275
+  
+  <h3> Codewars </h3>
+  https://www.codewars.com/users/BaptFr/badges/micro
