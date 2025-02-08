@@ -18,13 +18,14 @@
 </div>  
 
 <h2> Formation continue  </h2>
-  <p> Coursera </p>
+ <img src='https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png' width: 25x> Coursera </img>
   <p> Dyma </p>
 
 
 <h2> Plateformes d'entrainement </h2>
-  <h3> CodinGames </h3>
- <img src='https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275' />
-  
   <h3> Codewars </h3>
- <img src='https://www.codewars.com/users/BaptFr/badges/micro' />
+   <img src='https://www.codewars.com/users/BaptFr/badges/micro' />
+  <h3> CodinGames </h3>
+ <href src='https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275' > CodinGames profil </href>
+  
+
