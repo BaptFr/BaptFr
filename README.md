@@ -18,8 +18,8 @@
 </div>  
 
 <h2> Formation continue  </h2>
- <img src='https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png' width: 25px> Coursera </img>
-  <p> Dyma </p>
+ <img src='https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 25px;'> COURSERA </img>
+ <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5lW-NLorr5C9pSZpK5h-fNbnNb-vsZnVOA&s' style='width: 25px;'> <p> DYMA </p>
 
 
 <h2> Plateformes d'entrainement </h2>
