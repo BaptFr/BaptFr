@@ -19,8 +19,8 @@
 
 <div align="center">
   <h2> Formation continue  </h2>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;'> COURSERA </img>
-   <img src='https://res.cloudinary.com/superbuddy-tech/image/upload/dyma' style='width: 75px;'>  DYMA  </img>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;' align="center"> COURSERA </img>
+   <img src='https://res.cloudinary.com/superbuddy-tech/image/upload/dyma' style='width: 75px;' align="center">  DYMA  </img>
 </div>
 
 <div align="center">
