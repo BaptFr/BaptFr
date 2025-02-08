@@ -18,13 +18,13 @@
 </div>  
 
 <h2> Formation continue  </h2>
- <img src='https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 25px;'> COURSERA </img>
- <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5lW-NLorr5C9pSZpK5h-fNbnNb-vsZnVOA&s' style='width: 25px;'> <p> DYMA </p>
+ <img src='https://www.liblogo.com/img-logo/co8666g6d3-coursera-logo-google-professional-certificate-training-programs-coursera.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;'> COURSERA </img>
+ <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5lW-NLorr5C9pSZpK5h-fNbnNb-vsZnVOA&s' style='width: 75px;'> <p> DYMA </p>
 
 
 <h2> Plateformes d'entrainement </h2>
   <h3> Codewars </h3>
-   <img src='https://www.codewars.com/users/BaptFr/badges/micro' />
+   <img src='https://www.codewars.com/users/BaptFr/badges/large' />
   <h3> CodinGames </h3>
  <href src='https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275' > CodinGames profil </href>
   
