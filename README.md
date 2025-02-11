@@ -1,11 +1,13 @@
 <h1 align="center"> 👋 Welcome to my GitHub! 🚀   </h1>
 
-<h1 align="center">🖥️You have access to my web development projects 🖥️ </h1>
-</br>
- <h2 align ="center"> 💼  Checkout directly my work on <a href='https://baptfr.github.io/portfolio/'>  MY PORTFOLIO </a>   💼 </h2>
-</br>
-</br>
-<h2 align="center">I am working with these languages and tools:</h2>
+</br>  
+  <h3 align ="center">  Explorez mon portfolio pour découvrir mon parcours, mes compétences et une sélection de projets 
+         </br> / Explore my portfolio to discover my background, skills, and a selection of projects : </h3>
+         
+<h2 align ="center"> 💼 🖥️ <a href='https://baptfr.github.io/portfolio/'>  MON PORTFOLIO </a> 🖥️ 💼  </br> </br> </br>  </h2>
+
+
+<h2 align="center"> TECH STACK: </h2>
 <div align="center">
   <br href="https://skillicons.dev">
     <p> React.js | JavaScript | Vite | Sass | CSS3 | HTML5</p>
@@ -20,13 +22,13 @@
 </div>  
 
 <div align="center">
-  <h2> Formation continue  </h2>
+  <h2> FORMATION CONTINUE /  CONTINUING EDUCATION  </h2>
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;' align="center" />
    <img src='https://res.cloudinary.com/superbuddy-tech/image/upload/dyma' style='width: 75px;' align="center" />
 </div>
 
 <div align="center">
-  <h2> Plateformes d'entrainement </h2>
+  <h2> PLATEFORMES D'ENTRAINEMENT / TRAINING PLATFORMS </h2>
     <h3> Codewars </h3>
      <img src='https://www.codewars.com/users/BaptFr/badges/large' />
     <h3> CodinGames </h3>
