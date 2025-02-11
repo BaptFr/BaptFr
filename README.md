@@ -2,7 +2,7 @@
 
 <h1 align="center">🖥️You have access to my web development projects 🖥️ </h1>
 </br>
- <p align ="center"> 💼 Checkout directly my work on [My Portfolio](https://baptfr.github.io/portfolio/) </p>
+ <p align ="center"> 💼 Checkout directly my work on [My Portfolio](https://baptfr.github.io/portfolio/)    💼 </p>
 </br>
 </br>
 <h2 align="center">I am working with these languages and tools:</h2>
