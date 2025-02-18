@@ -4,7 +4,7 @@
   <h3 align ="center">  Explorez mon portfolio pour découvrir mon parcours, mes compétences et une sélection de projets 
          </br> / Explore my portfolio to discover my background, skills, and a selection of projects : </h3>
          
-<h2 align ="center"> 💼 🖥️ <a href='https://baptfr.github.io/portfolio/'>  MON PORTFOLIO </a> 🖥️ 💼  </br> </br> </br>  </h2>
+<h2 align ="center"> 💼 🖥️ <a href='https://baptfr.github.io/portfolio'>  MON PORTFOLIO </a> 🖥️ 💼  </br> </br> </br>  </h2>
 
 
 <h2 align="center"> TECH STACK: </h2>
