@@ -7,7 +7,7 @@
 <h2 align ="center"> 💼 🖥️ <a href='https://baptfr.github.io/portfolio'>  MON PORTFOLIO </a> 🖥️ 💼  </br> </br> </br>  </h2>
 
 
-<h2 align="center"> TECH STACK: </h2>
+<h2 align="center"> TECH. STACK: </h2>
 <div align="center">
   <br href="https://skillicons.dev">
     <p> React.js | JavaScript | SCSS/Sass | CSS3 | HTML5 | Vite | Babel | Webpack </p>
