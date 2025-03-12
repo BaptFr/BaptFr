@@ -23,7 +23,7 @@
 
 <div align="center">
   <h2> FORMATION CONTINUE /  CONTINUING EDUCATION  </h2>
-    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSk5BsMLcy8vKU8CMAtKqnlIBw9gnR09NSJg&s' style='width: 75px;' align="center" />
+    <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' style='width: 75px;' align="center" />
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;' align="center" />
    <img src='https://res.cloudinary.com/superbuddy-tech/image/upload/dyma' style='width: 75px;' align="center" />
 </div>
