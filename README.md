@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <h2> PLATEFORMES D'ENTRAINEMENT / TRAINING PLATFORMS </h2>
+  <h2> PLATEFORMES D'ENTRAINEMENT /  TRAINING PLATFORMS </h2>
     <h3> Codewars </h3>
      <img src='https://www.codewars.com/users/BaptFr/badges/large' />
     <h3> CodinGames </h3>
