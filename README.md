@@ -13,7 +13,7 @@
     <p> React.js | JavaScript | Tailwind | SCSS/Sass | CSS3 | HTML5 | Vite | Babel | Webpack </p>
     <img src="https://skillicons.dev/icons?i=react,js,tailwind,sass,css,html,vite,babel,webpack" /> </br></br>
     <p> Node.js | Express | MongoDB | Postman</p>
-    <img src="https://skillicons.dev/icons?i=npm,express,nodejs,mongodb,postman" /></br></br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" /></br></br>
     <p> Git | GitHub | Vercel</p>
     <img src="https://skillicons.dev/icons?i=git,github,vercel" /></br></br>
     <p> Figma | Notion</p>
