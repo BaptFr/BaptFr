@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Welcome to my GitHub! 🚀   </h1>
+<h1 align="center"> 👋 Welcome to my GitHub!    </h1>
 
 </br>  
   <h3 align ="center">  Explorez mon portfolio pour découvrir mon parcours, mes compétences et une sélection de projets 
