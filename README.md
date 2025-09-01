@@ -12,10 +12,12 @@
   <br href="https://skillicons.dev">
     <p> React.js | JavaScript | Tailwind | SCSS/Sass | CSS3 | HTML5 | Vite | Babel | Webpack </p>
     <img src="https://skillicons.dev/icons?i=react,js,tailwind,sass,css,html,vite,babel,webpack" /> </br></br>
-    <p> Python | Node.js | Express | MongoDB | Postman</p>
-    <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,postman" /></br></br>
+    <p> Python | FastAPI | Node.js | Express | MongoDB | Postman</p>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,postman" /></br></br>
     <p> Git | GitHub | Vercel | Render</p>
     <img src="https://skillicons.dev/icons?i=git,github,vercel" /></br></br>
+    <p> Raspberry Pi | IoT</p>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,python" /></br></br>
     <p> Figma | Notion</p>
     <img src="https://skillicons.dev/icons?i=figma,notion" /></br></br>
   </a>
