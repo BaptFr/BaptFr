@@ -23,18 +23,33 @@
   </a>
 </div>  
 
+</br> 
+</br> 
+
 <div align="center">
   <h2> 📚 FORMATION CONTINUE /  CONTINUING EDUCATION 📚 </h2>
     <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' style='width: 75px;' align="center" />
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;' align="center" />
    <img src='https://res.cloudinary.com/superbuddy-tech/image/upload/dyma' style='width: 75px;' align="center" />
 </div>
+</br> 
+</br> 
+</br> 
 
 <div align="center">
-  <h2> PLATEFORMES D'ENTRAINEMENT /  TRAINING PLATFORMS </h2>
+  <h2> 🥋 PLATEFORMES D'ENTRAINEMENT /  TRAINING PLATFORMS  </h2>
     <h3> Codewars </h3>
      <img src='https://www.codewars.com/users/BaptFr/badges/large' />
     <h3> CodinGames </h3>
    <a href='https://www.codingame.com/profile/72cf6dfbf6bfebe1c8e5da60478d82596398275' > CodinGames profil </a>
 </div>
+</br> 
+</br> 
+</br> 
 
+<div align="center">
+  <h2> 📌 SELECTION DE PROJETS /  PROJECTS SELECTION  </h2>
+  <h3> Selection de projets épinglés en dessous / Selected projects pinned below </h3>
+  <img src="https://cdn1.thesculptedvegan.com/wp-content/uploads/2020/05/07151301/Arrows-3-pointing-down-arrow-down-animated.gif" height="100" /> 
+
+</div>
