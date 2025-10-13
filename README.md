@@ -10,8 +10,8 @@
 <h2 align="center"> TECH STACK: </h2>
 <div align="center">
   <br href="https://skillicons.dev">
-    <p> React.js | JavaScript | Tailwind | SCSS/Sass | CSS3 | HTML5 | Vite | Babel | Webpack </p>
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,sass,css,html,vite,babel,webpack" /> </br></br>
+    <p> Next.js | React.js | JavaScript | Tailwind | SCSS/Sass | CSS3 | HTML5 | Vite | Webpack </p>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,sass,css,html,vite,webpack" /> </br></br>
     <p> Python | FastAPI | Node.js | Express | MongoDB | Postman</p>
     <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,postman" /></br></br>
     <p> Git | GitHub | Vercel | Render</p>
