@@ -13,13 +13,13 @@
   <br href="https://skillicons.dev">
     <p>  Next.js | React.js | TypeScript | JavaScript | Tailwind | SCSS/Sass | CSS3 | HTML5 | Vite | Webpack </p>
     <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,js,tailwind,sass,css,html,vite,webpack" /> </br></br>
-    <p> Python | FastAPI | Node.js | Express | NestJS | Postman/Apidog |</p>
+    <p> Python | FastAPI | Node.js | Express | NestJS | Postman/Apidog</p>
     <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,nestjs,postman" /></br></br>
     <p> Raspberry Pi | IoT</p>
     <img src="https://skillicons.dev/icons?i=raspberrypi,python" /></br></br></br>
-    <p> MongoDB | PostgreSQL | Prisma | DBeaver | pgAdmin |  </p> 
+    <p> MongoDB | PostgreSQL | Prisma | DBeaver | pgAdmin  </p> 
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,prisma,dbeaver" /></br></br></br>
-    <p> Docker | Vercel | DigitalOcean | Render | GitHub Actions | </p>
+    <p> Docker | Vercel | DigitalOcean | Render | GitHub Actions </p>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vercel,digitalocean,render,githubactions" /></br></br></br>
     <p> Git | GitHub | Jira | Notion | Figma</p>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,jira,notion,figma"/></br></br>
