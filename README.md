@@ -34,7 +34,8 @@
 <div align="center">
   <h2> 📚 FORMATION CONTINUE /  CONTINUING EDUCATION 📚 </h2>
     <img src='https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png' style='width: 75px;' align="center" />
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png' style='width: 75px;' align="center" />
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/960px-Coursera-Logo_600x600.svg.png' style='width: 75px;' align="center" />
+  
 </div>
 </br> 
 </br> 
